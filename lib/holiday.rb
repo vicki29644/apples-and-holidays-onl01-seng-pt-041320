@@ -39,7 +39,7 @@ end
 
 
 
-Eulis01 has notifications turned off
+
 
 
 
